@@ -38,4 +38,3 @@ The result would be:
 ```
 Feel free to take this template and wrap your code in ```simple_process```
 
-If there is any problem please contact Zhe Feng(zfeng@deloitte.co.uk)
